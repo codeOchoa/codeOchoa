@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/pablo-m-ochoa" target="blank">
+    <a href="https://www.linkedin.com/in/pablo-m-ochoa" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pablo Ochoa's LinkedIn profile" height="30" width="40" />
     </a>
 </p>
