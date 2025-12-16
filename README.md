@@ -1,4 +1,4 @@
-![banner](https://media.licdn.com/dms/image/v2/D4E16AQEhyLaALpJUNQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724007861704?e=1756944000&v=beta&t=zc1m6sodzuXxpqAr7bVPAC1zkbFpJjm96xaAH_UAX3E)
+![banner](https://res.cloudinary.com/cloudmediaportfolio-co/image/upload/v1765855995/Starfield06_qd5zjb.webp)
 
 <h1 align="center">Hi 👋, I'm Pablo Ochoa</h1>
 <h3 align="center">Full Stack Dev</h3>
